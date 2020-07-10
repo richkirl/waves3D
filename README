@@ -1,3 +1,5 @@
 #waves3D
 
+ sudo g++ wave.cpp -o wave -lglut -lGL -g -Wall
+
 Source link https://www.youtube.com/watch?v=Rwn__pIvVeI&t=1s
